@@ -13,4 +13,5 @@ Specifications and features:
   - USB - C Connector
 
 Schematic:
-![image](https://github.com/ywf1/rp2040_devboard/assets/115194344/05d14749-c9c8-4df2-999b-50e8815aa8aa)
+![image](https://github.com/ywf1/rp2040_devboard/assets/115194344/afdb8f5a-64f5-489f-8a1f-447bd30eeece)
+
